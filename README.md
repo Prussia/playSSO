@@ -4,3 +4,9 @@
 https://github.com/hellokoding/hello-sso-jwt-resource
 
 https://github.com/hellokoding/hello-sso-jwt-auth
+
+## SAML
+## OAUTH2
+## Identity Provider && Service Provider
+
+https://stackoverflow.com/questions/41486760/saml-2-0-to-oauth
